@@ -11,3 +11,4 @@ Luego, a partir del IMC obtenido se pueden calcular si una persona tiene un peso
 
 <li>- No es necesario generar una salida por terminal</li>
 <li>- Obligatorio realizar los pruebas unitarias</li>
+![8936947cdbedc0ed862fbaea0fa13da4](https://github.com/user-attachments/assets/cce32e33-61ed-4ba2-9271-c8720bd2dbac)
